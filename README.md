@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alenbrk
+- 👋 Hi, I’m @alenbrkovic
 - 👀 I’m interested in using gdl for ssw.
 - 🌱 I’m currently learning how to use gdl.
 - 💞️ I’m looking to collaborate on solar physics.
